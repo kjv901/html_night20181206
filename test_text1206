@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <title>김재민</title>
         <meta http-equiv="refresh" content="0; url=html.html" />
+        <h1>고양이 사진<h1>
     </head>
     <body>
       <img src="cat.jpg" alt="Smiley face" width="42" height="42">
